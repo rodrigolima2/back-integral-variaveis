@@ -1,4 +1,4 @@
-let fahrenheit = 100, celsius = 0;
+let fahrenheit = 50, celsius = 0;
 
 celsius = (fahrenheit-32) * (5/9);
 
