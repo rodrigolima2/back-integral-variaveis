@@ -1,4 +1,4 @@
-let imc = 0, peso = 70, altura = 1.80;
+let imc = 0, peso = 72, altura = 1.80;
 
 imc = peso / (Math.pow(altura, 2));
 
